@@ -30,3 +30,39 @@ h1{
 .santa:first-of-type{
     justify-self: start;
 }
+
+
+.vip_Datum{
+    grid-area: 2/2/span 1 / span 1;
+
+    justify-self: center;
+    align-self: center;
+    width: 60%;
+    height: 75%;
+
+    background-color: #524a47;
+    border: 3px solid #ffce1f;
+
+    color: antiquewhite;
+}
+
+ul{
+    list-style: square;
+}
+li{
+    margin-right: 50%;
+}
+
+.gul_b{
+    background-color: #d78800;
+}
+
+.vit_b{
+    background-color: aliceblue;
+}
+
+.röd_t{
+    color: #f55531;
+}
+
+
